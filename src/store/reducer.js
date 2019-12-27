@@ -2,7 +2,7 @@ const intialState = {
     counter: 0
 }
 
-const reducer = (state = imitialState, action) => {
+const reducer = (state = initialState, action) => {
     return state;
 }
 
